@@ -1,4 +1,4 @@
-module github.com/nerdswords/yet-another-cloudwatch-exporter
+module github.com/jeremy-mi-rh/yet-another-cloudwatch-exporter
 
 go 1.17
 
